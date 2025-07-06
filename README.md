@@ -53,4 +53,3 @@ git add feature.txt
 git commit -m "add feature"
 git push origin feature-branch
 
-# Then open a pull request via GitHub UI (pull_request event)
